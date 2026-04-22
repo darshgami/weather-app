@@ -86,5 +86,3 @@ API_KEY = "your_api_key"
 Darsh Gami
 GitHub: https://github.com/darshgami
 
-Your Name
-GitHub: https://github.com/your-username
